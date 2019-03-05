@@ -16,7 +16,7 @@
    6. [ibemstrongcodesubsup.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/6-ibemstrongcodesubsup.html)
    7. [CharEntiteshrmeta.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/7-CharEntiteshrmeta.html)
    8. [ImageElement.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/8-ImageElement.html)
-   9. [XHTMLElement.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/9-XHTMLDocValidation.html)
+   9. [XHTMLDocValidation.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/9-XHTMLDocValidation.html)
    10. [Links.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/10-Links.html)
    11. [Target.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/11-Target.html)
    12. [UnorderedList.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/12-UnorderedList.html)
@@ -39,6 +39,7 @@
 3. HTML & CSS
    1. [fonts.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/3-HTML%20%26%20CSS/1-fonts.html)
    2. [fonts2.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/3-HTML%20%26%20CSS/2-fonts2.html)
+   3. [decoration.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/3-HTML%20%26%20CSS/3-decoration.html)
 
 4. HTML with JavaScript
    1. [hello.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/4-HTML%20with%20JavaScript/1-hello.html)
