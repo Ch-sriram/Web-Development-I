@@ -1,0 +1,27 @@
+/*
+	style_font.css: An external stylesheet for use with fonts2.html
+*/
+
+p.major {
+	font-size: 1.1em;
+	font-style: italic;
+	font-family: 'Times New Roman';
+}
+
+p.minor {
+	font: 0.9em bold 'Courier New';	/* This is a Font Shorthand (not recommended to be used) */
+}
+
+
+h2 {
+	font-family: 'Times New Roman';
+	font-size: 2em;		/* Same as 200% of the original font-size */
+	font-weight: bold;
+}
+
+h2:hover {font-size: 5em; color: #FFFF00;}
+
+h3 {
+	font-family: 'Courier New';
+	font-size: 1.5em; /* Same as 150% of the original font-size */
+}

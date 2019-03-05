@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<!-- fonts.html: An example to illustrate Font Styling using CSS -->
+<html lang="en">
+<head>
+	<title> Font properties </title>
+	<meta charset="utf-8" />
+	<meta name="CSS" content="font-family, font-size, <style>" />
+	
+	<style type="text/css">
+		p.major {
+			font-size: 1.1em;
+			font-style: italic;
+			font-family: 'Times New Roman';
+		}
+		
+		p.minor {
+			font: 0.9em bold 'Courier New';	/* This is a Font Shorthand (not recommended to be used) */
+		}
+		
+		
+		h2 {
+			font-family: 'Times New Roman';
+			font-size: 2em;		/* Same as 200% of the original font-size */
+			font-weight: bold;
+		}
+
+		h2:hover {font-size: 5em; color: #FFFF00;}
+
+		h3 {
+			font-family: 'Courier New';
+			font-size: 1.5em; /* Same as 150% of the original font-size */
+		}
+	</style>
+</head>
+<body>
+	<p class="major">
+		If a job is worth doing, it's worth doing right.
+	</p>
+	<p class="minor">
+		Two wrongs don't make a right, but they certainly can get you in a lot of trouble.
+	</p>
+	<h2> Chapter 1: Introduction </h2>
+	<h3> 1.1 The Basics of Computer Networking </h3>
+</body>
+</html>
