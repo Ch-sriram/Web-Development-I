@@ -1,5 +1,7 @@
 # Web Development
 
+### References: Programming the World Wide Web (Robert W. Sebesta) | The Internet
+
 *Note: Updating the Content Table may take some time. So please dive into the repository to check the code.*
 
 <hr/>
