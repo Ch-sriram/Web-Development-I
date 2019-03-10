@@ -43,6 +43,7 @@
    4. [TrackingLeadingSpacing.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/3-HTML%20%26%20CSS/4-TrackingLeadingSpacing.html)
    5. [ulBulletStyling.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/3-HTML%20%26%20CSS/5-ulBulletStyling.html)
    6. [olBulletStyling.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/3-HTML%20%26%20CSS/6-olBulletStyling.html)
+   7. [textIndentFloat.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/3-HTML%20%26%20CSS/7-textIndentFloat.html)
 
 4. HTML with JavaScript
    1. [hello.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/4-HTML%20with%20JavaScript/1-hello.html)
