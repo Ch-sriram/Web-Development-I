@@ -8,46 +8,50 @@
 
 ***Content (Tree) as of March 05, 2019:***
 1. HTML & XHTML
-   1. [HTMLDocStructure.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/1-HTMLDocStructure.html)
-   2. [ParagraphTag.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/2-ParagraphTag.html)
-   3. [br&preTags.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/3-br%26preTags.html)
-   4. [Headings.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/4-Headings.html)
-   5. [blockquote.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/5-blockquote.html)
-   6. [ibemstrongcodesubsup.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/6-ibemstrongcodesubsup.html)
-   7. [CharEntiteshrmeta.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/7-CharEntiteshrmeta.html)
-   8. [ImageElement.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/8-ImageElement.html)
-   9. [XHTMLDocValidation.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/9-XHTMLDocValidation.html)
-   10. [Links.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/10-Links.html)
-   11. [Target.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/11-Target.html)
-   12. [UnorderedList.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/12-UnorderedList.html)
-   13. [OrderedList.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/13-OrderedList.html)
-   14. [NestedList.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/14-NestedList.html)
-   15. [DefinitionLists.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/15-DefinitionLists.html)
-   16. [Table.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/16-Table.html)
-   17. [Rowspan&Colspan.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/17-Rowspan%26Colspan.html)
-   18. [checkbox.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/18-checkbox.html)
-   19. [radio.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/19-radio.html)
-   20. [menuSelectOption.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/20-menuSelectOption.html)
-   21. [textarea&ActionButtons.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/21-textarea%26ActionButtons.html)
-   22. [OnlineShoppingForm.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/22-OnlineShoppingForm.html)
-   23. [framesetExample.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/1-HTML%20%26%20XHTML/23-framesetExample.html)
+   1. Standard HTML Document Structure: [HTMLDocStructure.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/HTMLDocStructure.html)
+   2. Basic Text Markup: 
+      1. Paragraphs: [ParagraphTag.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/ParagraphTag.html)
+      2. Line Breaks & Preserving White Spaces: [br&preTags.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/br%26preTags.html)
+      3. Headings: [Headings.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/Headings.html)
+      4. Block Quotations: [blockquote.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/blockquote.html)
+      5. Font Styles & Sizes: [ibemstrongcodesubsup.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/ibemstrongcodesubsup.html)
+      6. Character Entities, Horizontal Rules & Uses of the **meta** Element: [CharEntiteshrmeta.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/CharEntiteshrmeta.html)
+   3. Images: [ImageElement.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/ImageElement.html)
+   4. XHTML Document Validation: [XHTMLDocValidation.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/XHTMLDocValidation.html)
+   5. Hypertext Links: 
+      1. Links: [Links.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/Links.html)
+      2. Targets withing Documents: [Target.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/Target.html)
+   6. Lists: 
+      1. Unordered Lists: [UnorderedList.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/UnorderedList.html)
+      2. Ordered Lists: [OrderedList.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/OrderedList.html)
+      3. Nested Lists:[NestedList.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/NestedList.html)
+      4. Definition Lists: [DefinitionLists.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/DefinitionLists.html)
+   7. Tables: 
+      1. Basic Table: [Table.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/Table.html)
+      2. The **rowspan** and **colspan** Attributes: [Rowspan&Colspan.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/Rowspan%26Colspan.html)
+   8. Forms: 
+       1. The **input** Element: 
+          1. Checkboxes: [checkbox.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/checkbox.html)
+          2. Radio Button: [radio.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/radio.html)
+       2. The **select** Element: [menuSelectOption.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/menuSelectOption.html)
+       3. The **textarea** Element & The Action Buttons (Reset & Submit): [textarea&ActionButtons.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/textarea%26ActionButtons.html)
+       4. Example of a Complete Form: [OnlineShoppingForm.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/OnlineShoppingForm.html)
+   9. Frameset: [framesetExample.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/framesetExample.html)
    
-2. HTML-5
-   1. [audio.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/2-HTML5/1-audio.html)
-   2. [video.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/2-HTML5/2-video.html)
+2. HTML5
+   1. The **audio** Element: [audio.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML5/audio.html)
+   2. The **video** Element: [video.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML5/video.html)
 
-3. HTML & CSS
-   1. [fonts.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/3-HTML%20%26%20CSS/1-fonts.html)
-   2. [fonts2.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/3-HTML%20%26%20CSS/2-fonts2.html)
-   3. [decoration.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/3-HTML%20%26%20CSS/3-decoration.html)
-   4. [TrackingLeadingSpacing.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/3-HTML%20%26%20CSS/4-TrackingLeadingSpacing.html)
-   5. [ulBulletStyling.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/3-HTML%20%26%20CSS/5-ulBulletStyling.html)
-   6. [olBulletStyling.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/3-HTML%20%26%20CSS/6-olBulletStyling.html)
-   7. [textIndentFloat.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/3-HTML%20%26%20CSS/7-textIndentFloat.html)
-   8. [colorBgcolor.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/3-HTML%20%26%20CSS/8-colorBgcolor.html)
+3. HTML w.CSS
+   1. Font Properties: [Inline CSS](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20CSS/fonts.html) | [External CSS](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20CSS/fonts_externalCSS.html)
+   2. Text Decoration: [text_decoration.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20CSS/text_decoration.html)
+   3. Text Spacing: [TrackingLeadingSpacing.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20CSS/TrackingLeadingSpacing.html)
+   4. List Properites: [ulBulletStyling.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20CSS/ulBulletStyling.html) | [olBulletStyling.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20CSS/olBulletStyling.html)
+   5. Allignment of Text: [textIndentFloat.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20CSS/textIndentFloat.html)
+   6. Color: [colorBgcolor.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20CSS/colorBgcolor.html)
 
-4. HTML with JavaScript
-   1. [hello.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/4-HTML%20with%20JavaScript/1-hello.html)
+4. HTML w.JavaScript
+   1. Hello World!: [hello.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20JavaScript/hello.html)
    
 
 
