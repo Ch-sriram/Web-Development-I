@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<!-- 
+	marpads.html: An example to illustrate margin and padding property in CSS
+ -->
+<html lang="en">
+<head>
+	<title> Margins and Padding </title>
+	<meta charset="utf-8" />
+	<meta name="CSS" content="margin, padding, margin-left, ..., padding-left, ..." />
+
+	<style type="text/css">
+		body {text-align: center; font-family: Arial;}
+		p.one {
+			margin: 100px; padding: 15px;
+			background-color: #C0C0C0;
+			border-style: solid;
+		}
+		p.two {
+			margin: 5px; padding: 25px;
+			background-color: #C0C0C0;
+			border-style: solid;
+		}
+		p.three {
+			margin: 25px; padding: 5px;
+			background-color: #C0C0C0;
+			border-style: solid;
+		}
+		p.four {
+			margin: 25px; padding: 0px; 
+			background-color: #C0C0C0;
+		}
+		p.five {
+			padding: 25px; margin: 1px; 
+			background-color: #C0C0C0;
+		}
+		p.six { margin: 1px; padding: 1px;
+			background-color: #C0C0C0;
+		}
+		#idiom {font-size: 1.2em;}
+	</style>
+</head>
+<body>
+	<h3>The Box Model</h3>
+	<img src="images/boxModel.gif" width="20%" height="20%" alt="The Box Model" />
+	<p id="idiom">
+		<strong>Must Know Idioms!</strong>
+	</p>
+	<p class="one">
+		"Actions speak louder than words"
+		<br/>
+		[margin = 15 px, padding = 15px]
+	</p>
+	<p class="two">
+		"Best of both worlds"
+		<br/>
+		[margin = 5 px, padding = 25px]
+	</p>
+	<p class="three">
+		"Can't judge a book by its cover"
+		<br/>
+		[margin = 25 px, padding = 5px]
+	</p>
+	<p class="four">
+		"Don't put all your eggs in one basket"
+		<br/>
+		[margin = 25 px, no padding, no border]
+	</p>
+	<p class="five">
+		"Picture paints a thousand words"
+		<br/>
+		[padding = 25px, margin = 1px, no border]
+	</p>
+	<p class="six">
+		"Kill two birds with one stone"
+		<br/>
+		[margin = 1px, padding = 1px, no border]
+	</p>
+	<p>
+		This is the last line. 
+	</p>
+</body>
+</html>

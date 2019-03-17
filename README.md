@@ -51,6 +51,7 @@
    6. Color: [colorBgcolor.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/colorBgcolor.html)
    7. The Box Model:
       1. Borders: [border.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/border.html)
+      2. Margins & Padding: [marpads.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/marpads.html)
 
 4. HTML w.JavaScript
    1. Hello World!: [hello.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20JavaScript/hello.html)
