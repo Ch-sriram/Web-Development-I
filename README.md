@@ -24,7 +24,7 @@
    6. Lists: 
       1. Unordered Lists: [UnorderedList.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/UnorderedList.html)
       2. Ordered Lists: [OrderedList.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/OrderedList.html)
-      3. Nested Lists:[NestedList.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/NestedList.html)
+      3. Nested Lists: [NestedList.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/NestedList.html)
       4. Definition Lists: [DefinitionLists.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/DefinitionLists.html)
    7. Tables: 
       1. Basic Table: [Table.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/Table.html)
@@ -49,6 +49,8 @@
    4. List Properites: [ulBulletStyling.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/ulBulletStyling.html) | [olBulletStyling.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/olBulletStyling.html)
    5. Allignment of Text: [textIndentFloat.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/textIndentFloat.html)
    6. Color: [colorBgcolor.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/colorBgcolor.html)
+   7. The Box Model:
+      1. Borders: [border.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/border.html)
 
 4. HTML w.JavaScript
    1. Hello World!: [hello.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20JavaScript/hello.html)

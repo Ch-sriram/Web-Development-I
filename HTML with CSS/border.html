@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<!-- 
+	border.html: An example illustration of different borders in CSS using <table> & <p> Elements
+ -->
+<html>
+<head>
+	<title> Borders </title>
+	<meta charset="utf-8" />
+	<meta name="CSS" content="border-style, border-width, border-color, border-collapse, border" />
+
+	<style type="text/css">
+		
+		td, th {border: thin solid black;}
+		
+		table {
+			border: thin solid black;
+			border-collapse: collapse;
+			border-top-width: medium;
+			border-bottom-width: thick;
+			border-left-width: thin;
+			border-right-width: thin;
+			border-top-color: red;
+			border-bottom-color: blue;
+			border-right-color: green;
+			border-left-color: yellow;
+			border-top-style: dotted;
+			border-right-style: dashed;
+			border-bottom-style: solid;
+			border-left-style: double;
+		}
+
+		p {
+			border: thick dashed green;
+			background-color: black;
+			color: yellow;
+		}
+
+	</style>
+</head>
+<body>
+	<center>
+		<table>
+			<caption> My Family (Family Name: Chandrabhatta) </caption>
+			<tr>
+				<th> Name </th>
+				<th> Relation </th>
+				<th> Age </th>
+			</tr>
+			<tr>
+				<td> Ch. Ramakrishna </td>
+				<td> Father </td>
+				<td> 64 </td>
+			</tr>
+			<tr>
+				<td> Ch. Padmavathy </td>
+				<td> Mother </td>
+				<td> 53 </td>
+			</tr>
+			<tr>
+				<td> Ch. Sai Siva Krishna </td>
+				<td> Brother (Elder) </td>
+				<td> 29 </td>
+			</tr>
+			<tr>
+				<td> Ch. Sruti Swaroop </td>
+				<td> Brother (Younger) </td>
+				<td> 22 </td>
+			</tr>
+		</table>
+	
+		<p> Hello, I'm Chandrabhatta Sriram and I'm 23. All my family members are listed in the aforementioned table. </p>
+
+		<p> This is an example usage of border property in CSS </p>
+
+	</center>
+</body>
+</html>
