@@ -53,7 +53,7 @@
       1. Borders: [border.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/border.html)
       2. Margins & Padding: [marpads.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/marpads.html)
    8. Background Images: [back_image.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/back_image.html)
-   9. The &lt;span> and &lt;div> Tags: [spanDiv.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/spanDiv.html)
+   9. The **&lt;span>** and **&lt;div>** Tags: [spanDiv.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/spanDiv.html)
 
 4. HTML w.JavaScript
    1. Hello World!: [hello.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20JavaScript/hello.html)
