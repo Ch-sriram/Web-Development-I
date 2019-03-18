@@ -3,4 +3,5 @@
 						for use with cascade.html
 */
 
-p {font-size: 0.8em;}
+/*p {font-size: 0.8em;}*/
+p {font-size: 0.8em !important;}

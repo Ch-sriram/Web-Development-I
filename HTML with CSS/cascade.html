@@ -11,7 +11,21 @@
 	<meta charset="utf-8"/>
 	<link rel="stylesheet" type="text/css" href="style_cascade.css"/>
 	<style type="text/css">
+		/*
+		property-value specifications can be marked as being
+		important by including '!important' in the specification.
+		The '!important' specification would follow the 
+		Precedence of Style Sheets mentioned above.
+		'!important' is useful only in the same level of styling.
+		*/
+		p.special {font-style: italic !important; font-size:1.2em;}
+		/*
+		in p.special, font-size:1.2em is normal,
+		whereas, font-style:italic !important; is important, and has higher precedence
+		*/
 		p.docstyle {font-size: 1.2em;}
+		h3 {color:blue;}
+		body h3 {color:red;}
 	</style>
 </head>
 <body>
@@ -31,6 +45,56 @@
 		<p style="font-size:2em;">
 			and save this world
 		</p>
+		<br/> <br/> <br/>
+		<h3>
+			This is a Random Heading
+		</h3>
+		<p class="special">
+			This is a Random Paragraph
+		</p>
 	</center>
 </body>
 </html>
+
+<!--
+Note: Following excerpt is taken from the book -- 
+	  "Programming the World Wide Web" by Robert W. Sebesta
+-->
+<!--
+Conflict resolution is a multistage sorting process. The first step in the process
+is to gather the style specifications from the three possible levels of style sheets.
+These specifications are sorted into order by the relative precedence of the style
+sheet levels. Next, all the available specifications (those from style sheets, those from
+the user, and those from the browser) are sorted by origin and weight in accordance
+with the following list of rules, in which the first has the highest precedence:
+	1. Important declarations with user origin
+	2. Important declarations with author origin
+	3. Normal declarations with author origin
+	4. Normal declarations with user origin
+	5. Any declarations with browser (or other user agent) origin
+Note that user-origin specifications are considered to have the highest precedence.
+The rationale for this approach is that such specifications often are
+declared because of some diminished capability of the user, most often a visual
+impairment.
+If there are conflicts after this first sorting takes place, the next step in their
+resolution is a sort by specificity. This sort is based on the following rules, in
+which the first has the highest precedence:
+	1. id selectors
+	2. Class and pseudo class selectors
+	3. Contextual selectors (more element type names means that they are more
+	specific)
+	4. Universal selectors
+If there are still conflicts, they are resolved by giving precedence to the most
+recently seen specification. For this process, the specifications in an external style
+sheet are considered to occur at the point in the document where the link element
+or @import rule that references the external style sheet appears. For example, if
+a style sheet specifies the following, and there are no further conflicting specifications
+before the element is displayed, the value used will be the last (in this
+case, 0.9em):
+	p {font-size: 1em}
+	p {font-size: 0.9em}
+The whole sorting process that is used to resolve style specification
+conflicts is called the cascade. The name is apropos because the rules apply the
+lowest priority styles first and then cascade progressively to those with higher
+priorities.
+-->
