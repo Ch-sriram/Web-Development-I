@@ -43,7 +43,7 @@
    2. The **&lt;video>** Element: [video.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML5/video.html)
 
 3. HTML w.CSS
-   1. Font Properties: [Inline CSS](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/fonts.html) | [External CSS](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/fonts_externalCSS.html)
+   1. Font Properties: [fonts.html (Inline CSS)](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/fonts.html) | [fonts_externalCSS.html (External CSS)](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/fonts_externalCSS.html)
    2. Text Decoration: [text_decoration.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/text_decoration.html)
    3. Text Spacing: [TrackingLeadingSpacing.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/TrackingLeadingSpacing.html)
    4. List Properites: [ulBulletStyling.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/ulBulletStyling.html) | [olBulletStyling.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/olBulletStyling.html)
@@ -53,6 +53,7 @@
       1. Borders: [border.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/border.html)
       2. Margins & Padding: [marpads.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/marpads.html)
    8. Background Images: [back_image.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/back_image.html)
+   9. The &lt;span> and &lt;div> Tags: [spanDiv.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/spanDiv.html)
 
 4. HTML w.JavaScript
    1. Hello World!: [hello.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20JavaScript/hello.html)
