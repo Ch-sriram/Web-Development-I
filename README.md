@@ -59,5 +59,5 @@
 4. Basics of JavaScript
    1. Hello World!: [hello.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/hello.html)
    2. Variables & Types: [variables_types.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/variables_types.html) | [variables_types.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/variables_types.js)
-   
+   3. Operators (Part 1): [operators_1.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/operators_1.html) | [operators_1.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/operators_1.js)
 
