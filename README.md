@@ -56,7 +56,7 @@
    9. The **&lt;span>** and **&lt;div>** Tags: [spanDiv.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/spanDiv.html)
    10. Conflict Resolution: [cascade.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/cascade.html)
 
-4. HTML w.JavaScript
-   1. Hello World!: [hello.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20JavaScript/hello.html)
+4. Basics of JavaScript
+   1. Hello World!: [hello.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/hello.html)
    
 
