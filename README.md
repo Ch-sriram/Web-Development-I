@@ -2,7 +2,7 @@
 
 ### References: Programming the World Wide Web (Robert W. Sebesta) | The Internet
 
-*Note: This Repository is currently being updated (as of March 2019)*
+*Note: This Repository is currently being updated (as of June 2019)*
 
 <hr/>
 
