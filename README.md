@@ -30,17 +30,17 @@
       1. Basic Table: [Table.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/Table.html)
       2. The **rowspan** and **colspan** Attributes: [Rowspan&Colspan.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/Rowspan%26Colspan.html)
    8. Forms: 
-       1. The **&lt;input>** Element: 
+       1. The <code>&lt;input></code> Element: 
           1. Checkboxes: [checkbox.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/checkbox.html)
           2. Radio Button: [radio.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/radio.html)
-       2. The **&lt;select>** Element: [menuSelectOption.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/menuSelectOption.html)
-       3. The **&lt;textarea>** Element & The Action Buttons (Reset & Submit): [textarea&ActionButtons.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/textarea%26ActionButtons.html)
+       2. The <code>&lt;select></code> Element: [menuSelectOption.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/menuSelectOption.html)
+       3. The <code>&lt;textarea></code> Element & The Action Buttons (Reset & Submit): [textarea&ActionButtons.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/textarea%26ActionButtons.html)
        4. Example of a Complete Form: [OnlineShoppingForm.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/OnlineShoppingForm.html)
    9. Frameset: [framesetExample.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20%26%20XHTML/framesetExample.html)
    
 2. HTML5
-   1. The **&lt;audio>** Element: [audio.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML5/audio.html)
-   2. The **&lt;video>** Element: [video.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML5/video.html)
+   1. The <code>&lt;audio></code> Element: [audio.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML5/audio.html)
+   2. The <code>&lt;video></code> Element: [video.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML5/video.html)
 
 3. HTML w.CSS
    1. Font Properties: [fonts.html (Inline CSS)](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/fonts.html) | [fonts_externalCSS.html (External CSS)](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/fonts_externalCSS.html)
@@ -53,16 +53,16 @@
       1. Borders: [border.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/border.html)
       2. Margins & Padding: [marpads.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/marpads.html)
    8. Background Images: [back_image.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/back_image.html)
-   9. The **&lt;span>** and **&lt;div>** Tags: [spanDiv.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/spanDiv.html)
+   9. The <code>&lt;span></code> and <code>&lt;div></code> Tags: [spanDiv.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/spanDiv.html)
    10. Conflict Resolution: [cascade.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/HTML%20with%20CSS/cascade.html)
 
 4. Basics of JavaScript
    1. Hello World!: [hello.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/hello.html)
    2. Variables & Types: [variables_types.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/variables_types.html) | [variables_types.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/variables_types.js)
    3. Operators: [operators.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/operators.html) | [operators.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/operators.js)
-   4. The **Math** Object: [math_object.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/math_object.html) | [math_object.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/math_object.js)
-   5. The **Number** Object: [number_object.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/number_object.html) | [number_object.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/number_object.js)
+   4. The <code>Math</code> Object: [math_object.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/math_object.html) | [math_object.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/math_object.js)
+   5. The <code>Number</code> Object: [number_object.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/number_object.html) | [number_object.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/number_object.js)
    6. Type Conversion: [type_conversion.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/type_conversion.html) | [type_conversion.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/type_conversion.js)
-   7. **String** Properties & Methods: [string_object.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/string_object.html) | [string_object.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/string_object.js)
+   7. <code>String</code> Properties & Methods: [string_object.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/string_object.html) | [string_object.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/string_object.js)
    8. <code>typeof</code> Operator: [typeof_operator.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/typeof_operator.html) | [typeof_operator.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/typeof_operator.js)
-   
+
