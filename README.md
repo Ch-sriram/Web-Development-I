@@ -65,4 +65,5 @@
    6. Type Conversion: [type_conversion.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/type_conversion.html) | [type_conversion.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/type_conversion.js)
    7. <code>String</code> Properties & Methods: [string_object.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/string_object.html) | [string_object.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/string_object.js)
    8. <code>typeof</code> Operator: [typeof_operator.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/typeof_operator.html) | [typeof_operator.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/typeof_operator.js)
+   9. <code>Date</code> Object: [date_object.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/date_object.html) | [date_object.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/date_object.js)
 
