@@ -59,7 +59,7 @@
 4. Basics of JavaScript
    1. Hello World!: [hello.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/hello.html)
    2. Variables & Types: [variables_types.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/variables_types.html) | [variables_types.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/variables_types.js)
-   3. Operators (Part 1): [operators_1.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/operators_1.html) | [operators_1.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/operators_1.js)
+   3. Operators: [operators.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/operators.html) | [operators.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/operators.js)
    4. The **Math** Object: [math_object.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/math_object.html) | [math_object.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/math_object.js)
    5. The **Number** Object: [number_object.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/number_object.html) | [number_object.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/number_object.js)
 
