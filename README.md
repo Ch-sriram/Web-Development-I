@@ -63,4 +63,4 @@
    4. The **Math** Object: [math_object.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/math_object.html) | [math_object.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/math_object.js)
    5. The **Number** Object: [number_object.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/number_object.html) | [number_object.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/number_object.js)
    6. Type Conversion: [type_conversion.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/type_conversion.html) | [type_conversion.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/type_conversion.js)
-
+   7. **String** Properties & Methods: [string_object.html](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/string_object.html) | [string_object.js](https://github.com/Ch-sriram/Web-Development-I/blob/master/Basics%20of%20JavaScript/scripts/string_object.js)
